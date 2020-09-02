@@ -1,0 +1,47 @@
+.container {
+    width: 90% !important;
+    max-width: 1500px !important;
+    margin: auto !important;
+  }
+
+.brand {
+    background: #cbb09c !important;
+}
+
+
+.brand-text {
+    color: whitesmoke !important;
+}
+.centered-image-container {
+    text-align: center;
+}
+.centered-image {
+    width: auto;
+    max-width: 100%;
+}
+
+.nav-right_side {
+    padding-right: 75px !important;
+}
+
+.nav-left_side {
+    padding-left: 75px !important;
+}
+
+.login-title {
+    display: table;
+    margin: auto;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.nav-wrapper {
+    color: #FFB6C1 !important;
+}
+
+.login-form {
+    display: table;
+    margin: auto;
+    width: 30%;
+    padding-top: 75px;
+}
