@@ -1,5 +1,5 @@
 # Fashion First 
-Web application which allows users to track their workouts.
+Web application for an online e-commerce clothing shop
 
 ## Technologies
 * HTML, CSS, JavaScript
