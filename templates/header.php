@@ -11,7 +11,7 @@
     
 </head>
 
-<body class="grey lighten-4">
+<body class="">
     <nav>
     <div class="nav-wrapper">
       <a href="#" data-target="slide-out" class="sidenav-trigger show-on-large"><i class="material-icons">menu</i></a>
