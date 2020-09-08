@@ -13,23 +13,24 @@
 <div class="centered-image-container">
     <img class="centered-image" src="assets/images/nav-image4.png" alt="woman with shopping bags">
 </div>
+<br>
 <section>
     <h3 class="center">New In</h3>
 <div class="row">
-      <div class="col s12 m4 l3">
+      <div class="col s6 m4 l3">
       <div class="card">
         <div class="card-image">
         <img src="assets/images/new-in1.jpeg">
           <a class="btn-floating halfway-fab waves-effect waves-light "><i class="material-icons">add_shopping_cart</i></a>
         </div>
         <div class="card-content">
-        <span class="card-title">Olive dress</span>
+        <span class="card-title">Olive open dress</span>
           <p>£22</p>
         </div>
       </div>
       </div>
 
-      <div class="col s12 m4 l3">
+      <div class="col s6 m4 l3">
       <div class="card">
         <div class="card-image">
         <img src="assets/images/new-in2.jpeg">
@@ -42,7 +43,7 @@
       </div>
       </div>
 
-      <div class="col s12 m4 l3">
+      <div class="col s6 m4 l3">
       <div class="card">
         <div class="card-image">
         <img src="assets/images/new-in3.jpeg">
@@ -55,7 +56,7 @@
       </div>
       </div>
 
-      <div class="col s12 m4 l3">
+      <div class="col s6 m4 l3">
       <div class="card">
         <div class="card-image">
         <img src="assets/images/new-in4.jpeg">

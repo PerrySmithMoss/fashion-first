@@ -3,7 +3,7 @@ html,body {
 }
 
 .container {
-    width: 100% !important;
+    width: 90% !important;
     max-width: 1440px !important;
     margin: auto !important;
   }
@@ -38,6 +38,10 @@ nav {
     background-color: white !important;
 }
 
+nav .brand-logo.left {
+    
+}
+
 .login-title {
     display: table;
     margin: auto;
@@ -67,12 +71,27 @@ nav {
 
 .search-bar {
     background-color: white !important;
+    padding-top: 5px !important;
 }
 
-@media screen and (max-width: 993px) {
-.nav-right_side {
-    padding-right: 5px !important;
+.search-bar_icon {
+    padding-right: 15px !important;
+    padding-top: 2px !important;
+}
+
+@media screen and (max-width: 991px) {
+.nav-left_side {
+    padding-left: 90px !important;
     }
+}
+
+@media screen and (max-width: 695px) { 
+    .search-bar {
+        width: 90px;
+    }
+    .nav-left_side {
+        padding-left: 75px !important;
+        }
 }
 
 @media screen and (max-width: 400px) {

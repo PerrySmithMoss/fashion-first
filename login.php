@@ -33,6 +33,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
+        <br>
 <div class="container">
 <?php include('templates/header.php') ?>
 
@@ -78,8 +79,8 @@
             <!-- Form Button Section  -->
         <div class="center">
             <input type="submit" value="Login" name="submit" 
-            class="btn waves-effect waves-light submit-btn" 
-            style="width:100%; background-color: #212121">
+            class="btn waves-effect waves-light submit-btn white-text" 
+            style="width:100%; ">
         </div>
 
             <!-- Form "Register Now" And "Forgot Password" Link Section. -->

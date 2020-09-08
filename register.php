@@ -32,6 +32,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
+<br>
 <div class="container">
 <?php include('templates/header.php') ?>
 
@@ -88,14 +89,15 @@
         <div class="center">
             <input type="submit" value="Sign up" name="submit" 
             class="btn waves-effect waves-light submit-btn" 
-            style="width:100%; background-color: #212121">
+            style="width:100%; white-text">
         </div>
 
             <!-- Form "Register Now" And "Forgot Password" Link Section. -->
         <div class="" style="font-size:14px;"><br>
             <a href="login.php" class="left">Login</a>
             <a href="" class="right ">Forgot Password?</a>
-        </div><br>
+        </div>
+        <br>
     </div>
 </form>
 
