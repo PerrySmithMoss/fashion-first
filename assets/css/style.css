@@ -21,6 +21,7 @@ html,body {
 .centered-image {
     width: auto;
     max-width: 100%;
+    height: 400px !important;
 }
 
 .nav-right_side {
