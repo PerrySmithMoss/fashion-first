@@ -38,10 +38,6 @@ nav {
     background-color: white !important;
 }
 
-nav .brand-logo.left {
-    
-}
-
 .login-title {
     display: table;
     margin: auto;
@@ -60,6 +56,14 @@ nav .brand-logo.left {
     padding-top: 75px !important;
 }
 
+.submit-btn {
+    background-color: black !important;
+}
+
+.waves-button-input {
+    color: white !important;
+}
+
 .sidenav-trigger {
     padding-left: 25px !important;
     color: black !important
@@ -69,15 +73,6 @@ nav .brand-logo.left {
     background-color: white !important ;
 }
 
-.search-bar {
-    background-color: white !important;
-    padding-top: 5px !important;
-}
-
-.search-bar_icon {
-    padding-right: 15px !important;
-    padding-top: 2px !important;
-}
 
 @media screen and (max-width: 991px) {
 .nav-left_side {
