@@ -16,6 +16,15 @@
 <br>
 <section>
     <h3 class="center">New In</h3>
+    <br>
+    <div class="row">
+      <div class="col s2">Sort</div>
+      <div class="col s2">Category</div>
+      <div class="col s2">Product Type</div>
+      <div class="col s2">Color</div>
+      <div class="col s2">Size</div>
+      <div class="col s2">Price Range</div>
+    </div>
 <div class="row">
       <div class="col s6 m4 l3">
       <div class="card">
@@ -38,7 +47,7 @@
       <div class="card">
         <div class="card-image">
         <img src="assets/images/new-in2.jpeg">
-          <a class="btn-floating halfway-fab waves-effect waves-light "><i class="material-icons">favorite</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light black"><i class="material-icons">favorite</i></a>
         </div>
         <div class="card-content">
         <span class="card-title">Black crop top</span>
@@ -55,7 +64,7 @@
       <div class="card">
         <div class="card-image">
         <img src="assets/images/new-in3.jpeg">
-          <a class="btn-floating halfway-fab waves-effect waves-light "><i class="material-icons">add_shopping_cart</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light black"><i class="material-icons">favorite</i></a>
         </div>
         <div class="card-content">
         <span class="card-title">Black sleeveless top</span>
@@ -72,7 +81,7 @@
       <div class="card">
         <div class="card-image">
         <img src="assets/images/new-in4.jpeg">
-          <a class="btn-floating halfway-fab waves-effect waves-light "><i class="material-icons">add_shopping_cart</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light black"><i class="material-icons">favorite</i></a>
         </div>
         <div class="card-content">
         <span class="card-title">Black mesh dress</span>
@@ -89,7 +98,7 @@
       <div class="card">
         <div class="card-image">
         <img src="assets/images/new-in5.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light "><i class="material-icons">add_shopping_cart</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light black"><i class="material-icons">favorite</i></a>
         </div>
         <div class="card-content">
         <span class="card-title">Bijou Jewel Mirror Dress</span>
@@ -106,7 +115,7 @@
       <div class="card">
         <div class="card-image">
         <img src="assets/images/new-in8.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light "><i class="material-icons">add_shopping_cart</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light black"><i class="material-icons">favorite</i></a>
         </div>
         <div class="card-content">
         <span class="card-title">Floral Corset Dress</span>
@@ -123,7 +132,7 @@
       <div class="card">
         <div class="card-image">
         <img src="assets/images/new-in7.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light "><i class="material-icons">add_shopping_cart</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light black"><i class="material-icons">favorite</i></a>
         </div>
         <div class="card-content">
         <span class="card-title">Thin Strap Shimmer Dress</span>
@@ -140,7 +149,7 @@
       <div class="card">
         <div class="card-image">
         <img src="assets/images/new-in6.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light "><i class="material-icons">add_shopping_cart</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light black"><i class="material-icons">favorite</i></a>
         </div>
         <div class="card-content">
         <span class="card-title">Sleeveless Feathered Dress</span>
