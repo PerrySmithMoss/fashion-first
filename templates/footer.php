@@ -1,5 +1,4 @@
-<footer class="section">
-    <div class="center grey-text">
+<div class="center grey-text">
         <!-- Copyright 2020 Perry Smith-Moss -->
     </div>
 </footer>
