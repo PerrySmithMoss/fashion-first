@@ -20,12 +20,12 @@ $product_list = $product->getData();
       <div class="col s6 m4 l3">
       <div class="card">
         <div class="card-image">
-        <img src="<?php echo $item['item_image'] ?? "./assets/images/new-in/new-in1.jpeg"?>">
+       <a href="<?php printf('%s?item_id=%s', 'product.php', $item['item_id']);?>"><img src="<?php echo $item['item_image'] ?? "./assets/images/new-in/new-in1.jpeg";?>"></a>
           <a class="btn-floating halfway-fab waves-effect waves-light black"><i class="material-icons">favorite</i></a>
         </div>
         <div class="card-content">
-        <span class="card-title">Olive open dress</span>
-          <p>£22</p>
+        <span class="card-title"><?php echo $item['item_name'] ?? "Unknown";?></span>
+          <p>£<?php echo $item['item_price'] ?? "Unknown Price"?></p>
           <br>
         <input type="submit" value="Add To Cart" name="add-to-cart" 
             class="btn waves-effect waves-light submit-btn" 
