@@ -13,10 +13,12 @@
 
     <!-- Require global functions-->
     <?php
-    require ('functions.php');
+    require('functions.php');
     ?>
 </head>
 
+<br>
+<div class="container">
 <body class="">
     <nav>
     <div class="nav-wrapper">

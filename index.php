@@ -6,8 +6,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<br>
-<div class="container">
 
 <!-- Header -->
 <?php include('templates/header.php') ?>

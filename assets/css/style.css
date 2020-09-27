@@ -1,5 +1,9 @@
-* {
-
+@font-face {
+    font-family: "Ol";
+    src: url("CustomFont.eot");
+    src: url("CustomFont.woff") format("t"),
+    url("CustomFont.otf") format("opentype"),
+    url("CustomFont.svg#filename") format("svg");
 }
 
 html,body {
@@ -12,6 +16,7 @@ html,body {
     margin: auto !important;
   }
 
+  /* Index page */ 
 .brand-text {
     color: white !important;
     padding-left: 5px !important;
@@ -43,15 +48,16 @@ nav {
     background-color: white !important;
 }
 
+.nav-wrapper {
+    background-color: white !important;
+}
+
+/* Login/Registration */ 
 .login-title {
     display: table;
     margin: auto;
     font-size: 20px;
     text-transform: uppercase;
-}
-
-.nav-wrapper {
-    background-color: white !important;
 }
 
 .login-form {
@@ -69,14 +75,42 @@ nav {
     color: white !important;
 }
 
+/* Side Nav */ 
+
 .sidenav-trigger {
     padding-left: 25px !important;
     color: black !important
 }
 
-.nav-wrapper{
-    background-color: white !important ;
+/* Product page */ 
+._product-image {
+    height: 600px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto; 
 }
+
+.product-image_buttons {
+    display: flex;
+    text-align: center;
+}
+
+.section-menu_header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0rem 0 2rem 0;
+  }
+
+.underline {
+    width: 12rem;
+    height: 0.3rem;
+    background-color: #ffcc4d;
+  }
+
+  h3 {
+      margin-bottom: 0.5rem;
+  }
 
 
 @media screen and (max-width: 991px) {

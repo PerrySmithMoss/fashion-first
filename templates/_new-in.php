@@ -4,7 +4,11 @@ $product_list = $product->getData();
 
 ?>
 
+<div class="section-menu_header">
 <h3 class="center">New In</h3>
+<div class="underline center"></div>
+
+</div>
     <br>
     <div class="row">
       <div class="col s2">Sort</div>
